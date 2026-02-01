@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 56cd3024dd1b0d4438a0dcbe7db5339a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5156127516430819942
+    second: DroneGunCharge_0
+  - first:
+      213: 1910270884259905794
+    second: DroneGunCharge_1
+  - first:
+      213: 7448501229971910144
+    second: DroneGunCharge_2
+  - first:
+      213: 7775228945205540881
+    second: DroneGunCharge_3
+  - first:
+      213: -8650535816506216385
+    second: DroneGunCharge_4
+  - first:
+      213: -1208802980360480633
+    second: DroneGunCharge_5
+  - first:
+      213: 8717652175439839294
+    second: DroneGunCharge_6
+  - first:
+      213: 6117074622266531069
+    second: DroneGunCharge_7
+  - first:
+      213: 5929156717548088534
+    second: DroneGunCharge_8
+  - first:
+      213: -144042118266974594
+    second: DroneGunCharge_9
+  - first:
+      213: -5554251799459671907
+    second: DroneGunCharge_10
+  - first:
+      213: -5886722768422240908
+    second: DroneGunCharge_11
+  - first:
+      213: 6829706754439213652
+    second: DroneGunCharge_12
+  - first:
+      213: -4113592800927497676
+    second: DroneGunCharge_13
+  - first:
+      213: -7599012865214943100
+    second: DroneGunCharge_14
+  - first:
+      213: -6979605488873609896
+    second: DroneGunCharge_15
+  - first:
+      213: 7647229870118542354
+    second: DroneGunCharge_16
+  - first:
+      213: -2872372505416225505
+    second: DroneGunCharge_17
+  - first:
+      213: -5867133948314776011
+    second: DroneGunCharge_18
+  - first:
+      213: 8377179637479181161
+    second: DroneGunCharge_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DroneGunCharge_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 8
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662e97968ae3e8740800000000000000
+      internalID: 5156127516430819942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DroneGunCharge_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 8
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20145198f35a28a10800000000000000
+      internalID: 1910270884259905794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DroneGunCharge_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 8
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e2981a7646e5760800000000000000
+      internalID: 7448501229971910144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DroneGunCharge_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 8
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118bf4ed78927eb60800000000000000
+      internalID: 7775228945205540881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DroneGunCharge_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 8
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f307a54e18f13f780800000000000000
+      internalID: -8650535816506216385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DroneGunCharge_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 8
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7881e280818793fe0800000000000000
+      internalID: -1208802980360480633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DroneGunCharge_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 8
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30c08827725bf870800000000000000
+      internalID: 8717652175439839294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DroneGunCharge_7
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 8
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcd0c495f634e450800000000000000
+      internalID: 6117074622266531069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DroneGunCharge_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 8
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc231fde98984250800000000000000
+      internalID: 5929156717548088534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DroneGunCharge_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 8
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e8004e472400ef0800000000000000
+      internalID: -144042118266974594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DroneGunCharge_10
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 8
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90d1248a655be2b0800000000000000
+      internalID: -5554251799459671907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DroneGunCharge_11
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 8
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47dfcf0d4d82e4ea0800000000000000
+      internalID: -5886722768422240908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DroneGunCharge_12
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 8
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4527f6a9b1ef7ce50800000000000000
+      internalID: 6829706754439213652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DroneGunCharge_13
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 8
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432cc1e642599e6c0800000000000000
+      internalID: -4113592800927497676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DroneGunCharge_14
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 8
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4807d357f02ea8690800000000000000
+      internalID: -7599012865214943100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DroneGunCharge_15
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 8
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855625399c5732f90800000000000000
+      internalID: -6979605488873609896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DroneGunCharge_16
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 8
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c1c24dc0b602a60800000000000000
+      internalID: 7647229870118542354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DroneGunCharge_17
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 8
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d2110cc684328d0800000000000000
+      internalID: -2872372505416225505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DroneGunCharge_18
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 8
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e001962c0c39ea0800000000000000
+      internalID: -5867133948314776011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DroneGunCharge_19
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 8
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b059ffe78b14470800000000000000
+      internalID: 8377179637479181161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5522102bb5f1d6846a9b51b53dd3a9b8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DroneGunCharge_0: 5156127516430819942
+      DroneGunCharge_1: 1910270884259905794
+      DroneGunCharge_10: -5554251799459671907
+      DroneGunCharge_11: -5886722768422240908
+      DroneGunCharge_12: 6829706754439213652
+      DroneGunCharge_13: -4113592800927497676
+      DroneGunCharge_14: -7599012865214943100
+      DroneGunCharge_15: -6979605488873609896
+      DroneGunCharge_16: 7647229870118542354
+      DroneGunCharge_17: -2872372505416225505
+      DroneGunCharge_18: -5867133948314776011
+      DroneGunCharge_19: 8377179637479181161
+      DroneGunCharge_2: 7448501229971910144
+      DroneGunCharge_3: 7775228945205540881
+      DroneGunCharge_4: -8650535816506216385
+      DroneGunCharge_5: -1208802980360480633
+      DroneGunCharge_6: 8717652175439839294
+      DroneGunCharge_7: 6117074622266531069
+      DroneGunCharge_8: 5929156717548088534
+      DroneGunCharge_9: -144042118266974594
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

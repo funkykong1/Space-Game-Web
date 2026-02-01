@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ca902e06c5334a4c9c1c43ba977b5fd, type: 3}
+  m_Name: FXLibrary
+  m_EditorClassIdentifier: Assembly-CSharp::FXLibrary
+  explosionCollision: {fileID: 128336675600288125, guid: 50718205ad6208f41b5af6d318a62111, type: 3}
+  explosionShip: {fileID: 8321217971346554441, guid: e427bd98541573c4880b0fe133c6f8f8, type: 3}
+  explosionMid: {fileID: 7489524744290576179, guid: a59d80070bb17fa41a7dd69547396140, type: 3}
+  thunderImpacts:
+  - {fileID: 8300000, guid: ab171118a6078824ea8871449da0fad9, type: 3}
+  - {fileID: 8300000, guid: 0a9e13402b0a0734eb44bc29596850c0, type: 3}
+  - {fileID: 8300000, guid: 40c3d96c60791c746ba25d41664dee51, type: 3}
+  thunderFire:
+  - {fileID: 8300000, guid: 7dd8de3c7818e7e47a4173263eb86842, type: 3}

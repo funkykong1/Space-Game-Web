@@ -1,0 +1,876 @@
+fileFormatVersion: 2
+guid: ab29f64eeb8fe3245af614149d4ad0ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7201650792927633126
+    second: lasercharge_0
+  - first:
+      213: 6477415693197764302
+    second: lasercharge_1
+  - first:
+      213: 1527407358041822275
+    second: lasercharge_2
+  - first:
+      213: -3556038056305653994
+    second: lasercharge_3
+  - first:
+      213: -9165643732133499455
+    second: lasercharge_4
+  - first:
+      213: -4660907337828815018
+    second: lasercharge_5
+  - first:
+      213: -627145010899251782
+    second: lasercharge_6
+  - first:
+      213: -8484927092220402557
+    second: lasercharge_7
+  - first:
+      213: -7783294412975828350
+    second: lasercharge_8
+  - first:
+      213: 7533007067882609142
+    second: lasercharge_9
+  - first:
+      213: 6586678707615575626
+    second: lasercharge_10
+  - first:
+      213: -3883246168339133064
+    second: lasercharge_11
+  - first:
+      213: 3418771324960472397
+    second: lasercharge_12
+  - first:
+      213: -4810644565113748930
+    second: lasercharge_13
+  - first:
+      213: -4032992606696523005
+    second: lasercharge_14
+  - first:
+      213: -4874806343716496384
+    second: lasercharge_15
+  - first:
+      213: -4554033564845538482
+    second: lasercharge_16
+  - first:
+      213: 8377673617293691508
+    second: lasercharge_17
+  - first:
+      213: -9099339302567678944
+    second: lasercharge_18
+  - first:
+      213: -2490596195799794042
+    second: lasercharge_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lasercharge_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 32, y: -29}
+        - {x: 32, y: -11}
+        - {x: 32, y: 1}
+        - {x: 11, y: 12}
+        - {x: 7, y: 29}
+        - {x: -7, y: 29}
+        - {x: -12, y: 11}
+        - {x: -32, y: 1}
+        - {x: -32, y: -11}
+        - {x: -32, y: -29}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11632382c89e0c90800000000000000
+      internalID: -7201650792927633126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasercharge_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 8
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 32, y: -29}
+        - {x: 32, y: -11}
+        - {x: 32, y: 1}
+        - {x: 11, y: 12}
+        - {x: 7, y: 29}
+        - {x: -7, y: 29}
+        - {x: -12, y: 11}
+        - {x: -32, y: 1}
+        - {x: -32, y: -11}
+        - {x: -32, y: -29}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6e79f014764e950800000000000000
+      internalID: 6477415693197764302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasercharge_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 8
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 32, y: -29}
+        - {x: 32, y: -11}
+        - {x: 32, y: 1}
+        - {x: 11, y: 12}
+        - {x: 7, y: 29}
+        - {x: -7, y: 29}
+        - {x: -12, y: 11}
+        - {x: -32, y: 1}
+        - {x: -32, y: -11}
+        - {x: -32, y: -29}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344966b46e0723510800000000000000
+      internalID: 1527407358041822275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasercharge_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 8
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 32, y: -29}
+        - {x: 32, y: -11}
+        - {x: 32, y: 1}
+        - {x: 11, y: 12}
+        - {x: 7, y: 29}
+        - {x: -7, y: 29}
+        - {x: -12, y: 11}
+        - {x: -32, y: 1}
+        - {x: -32, y: -11}
+        - {x: -32, y: -29}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617812e7a3a66aec0800000000000000
+      internalID: -3556038056305653994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasercharge_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 8
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 32, y: -29}
+        - {x: 32, y: -11}
+        - {x: 32, y: 1}
+        - {x: 11, y: 12}
+        - {x: 7, y: 29}
+        - {x: -7, y: 29}
+        - {x: -12, y: 11}
+        - {x: -32, y: 1}
+        - {x: -32, y: -11}
+        - {x: -32, y: -29}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cda56856971dc080800000000000000
+      internalID: -9165643732133499455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasercharge_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 8
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 32, y: -29}
+        - {x: 32, y: -11}
+        - {x: 32, y: 1}
+        - {x: 11, y: 12}
+        - {x: 7, y: 29}
+        - {x: -7, y: 29}
+        - {x: -12, y: 11}
+        - {x: -32, y: 1}
+        - {x: -32, y: -11}
+        - {x: -32, y: -29}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fa3b58871215fb0800000000000000
+      internalID: -4660907337828815018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasercharge_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 8
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 32, y: -29}
+        - {x: 32, y: -11}
+        - {x: 32, y: 1}
+        - {x: 11, y: 12}
+        - {x: 7, y: 29}
+        - {x: -7, y: 29}
+        - {x: -12, y: 11}
+        - {x: -32, y: 1}
+        - {x: -32, y: -11}
+        - {x: -32, y: -29}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd01b27feeeb47f0800000000000000
+      internalID: -627145010899251782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasercharge_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 8
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 32, y: -29}
+        - {x: 32, y: -11}
+        - {x: 32, y: 1}
+        - {x: 11, y: 12}
+        - {x: 7, y: 29}
+        - {x: -7, y: 29}
+        - {x: -12, y: 11}
+        - {x: -32, y: 1}
+        - {x: -32, y: -11}
+        - {x: -32, y: -29}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3846d13c3cb7f3a80800000000000000
+      internalID: -8484927092220402557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasercharge_8
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 8
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 32, y: -29}
+        - {x: 32, y: -11}
+        - {x: 32, y: 1}
+        - {x: 11, y: 12}
+        - {x: 7, y: 29}
+        - {x: -7, y: 29}
+        - {x: -12, y: 11}
+        - {x: -32, y: 1}
+        - {x: -32, y: -11}
+        - {x: -32, y: -29}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2821b4418fe2cf390800000000000000
+      internalID: -7783294412975828350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasercharge_9
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 8
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 32, y: -29}
+        - {x: 32, y: -11}
+        - {x: 32, y: 1}
+        - {x: 11, y: 12}
+        - {x: 7, y: 29}
+        - {x: -7, y: 29}
+        - {x: -12, y: 11}
+        - {x: -32, y: 1}
+        - {x: -32, y: -11}
+        - {x: -32, y: -29}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f956a3440e9a8860800000000000000
+      internalID: 7533007067882609142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasercharge_10
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 8
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 32, y: -29}
+        - {x: 32, y: -11}
+        - {x: 32, y: 1}
+        - {x: 11, y: 12}
+        - {x: 7, y: 29}
+        - {x: -7, y: 29}
+        - {x: -12, y: 11}
+        - {x: -32, y: 1}
+        - {x: -32, y: -11}
+        - {x: -32, y: -29}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e2e090365986b50800000000000000
+      internalID: 6586678707615575626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasercharge_11
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 8
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 32, y: -29}
+        - {x: 32, y: -11}
+        - {x: 32, y: 1}
+        - {x: 11, y: 12}
+        - {x: 7, y: 29}
+        - {x: -7, y: 29}
+        - {x: -12, y: 11}
+        - {x: -32, y: 1}
+        - {x: -32, y: -11}
+        - {x: -32, y: -29}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87dcfb82f20fb1ac0800000000000000
+      internalID: -3883246168339133064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasercharge_12
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 8
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 32, y: -29}
+        - {x: 32, y: -11}
+        - {x: 32, y: 1}
+        - {x: 11, y: 12}
+        - {x: 7, y: 29}
+        - {x: -7, y: 29}
+        - {x: -12, y: 11}
+        - {x: -32, y: 1}
+        - {x: -32, y: -11}
+        - {x: -32, y: -29}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d7f88186ae17f20800000000000000
+      internalID: 3418771324960472397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasercharge_13
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 8
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 32, y: -29}
+        - {x: 32, y: -11}
+        - {x: 32, y: 1}
+        - {x: 11, y: 12}
+        - {x: 7, y: 29}
+        - {x: -7, y: 29}
+        - {x: -12, y: 11}
+        - {x: -32, y: 1}
+        - {x: -32, y: -11}
+        - {x: -32, y: -29}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e324bb381482d3db0800000000000000
+      internalID: -4810644565113748930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasercharge_14
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 8
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 32, y: -29}
+        - {x: 32, y: -11}
+        - {x: 32, y: 1}
+        - {x: 11, y: 12}
+        - {x: 7, y: 29}
+        - {x: -7, y: 29}
+        - {x: -12, y: 11}
+        - {x: -32, y: 1}
+        - {x: -32, y: -11}
+        - {x: -32, y: -29}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bb318879ee708c0800000000000000
+      internalID: -4032992606696523005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasercharge_15
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 8
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 32, y: -29}
+        - {x: 32, y: -11}
+        - {x: 32, y: 1}
+        - {x: 11, y: 12}
+        - {x: 7, y: 29}
+        - {x: -7, y: 29}
+        - {x: -12, y: 11}
+        - {x: -32, y: 1}
+        - {x: -32, y: -11}
+        - {x: -32, y: -29}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c15fd4575395cb0800000000000000
+      internalID: -4874806343716496384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasercharge_16
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 8
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 32, y: -29}
+        - {x: 32, y: -11}
+        - {x: 32, y: 1}
+        - {x: 11, y: 12}
+        - {x: 7, y: 29}
+        - {x: -7, y: 29}
+        - {x: -12, y: 11}
+        - {x: -32, y: 1}
+        - {x: -32, y: -11}
+        - {x: -32, y: -29}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e430d20e992dcc0c0800000000000000
+      internalID: -4554033564845538482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasercharge_17
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 8
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 32, y: -29}
+        - {x: 32, y: -11}
+        - {x: 32, y: 1}
+        - {x: 11, y: 12}
+        - {x: 7, y: 29}
+        - {x: -7, y: 29}
+        - {x: -12, y: 11}
+        - {x: -32, y: 1}
+        - {x: -32, y: -11}
+        - {x: -32, y: -29}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ac3f2a4c9734470800000000000000
+      internalID: 8377673617293691508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasercharge_18
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 8
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 32, y: -29}
+        - {x: 32, y: -11}
+        - {x: 32, y: 1}
+        - {x: 11, y: 12}
+        - {x: 7, y: 29}
+        - {x: -7, y: 29}
+        - {x: -12, y: 11}
+        - {x: -32, y: 1}
+        - {x: -32, y: -11}
+        - {x: -32, y: -29}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ce3bb5d17a8b180800000000000000
+      internalID: -9099339302567678944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasercharge_19
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 8
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 32, y: -29}
+        - {x: 32, y: -11}
+        - {x: 32, y: 1}
+        - {x: 11, y: 12}
+        - {x: 7, y: 29}
+        - {x: -7, y: 29}
+        - {x: -12, y: 11}
+        - {x: -32, y: 1}
+        - {x: -32, y: -11}
+        - {x: -32, y: -29}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ef966a4ff9f6dd0800000000000000
+      internalID: -2490596195799794042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 59cc625ce561a0f48a84299b020fc522
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lasercharge_0: -7201650792927633126
+      lasercharge_1: 6477415693197764302
+      lasercharge_10: 6586678707615575626
+      lasercharge_11: -3883246168339133064
+      lasercharge_12: 3418771324960472397
+      lasercharge_13: -4810644565113748930
+      lasercharge_14: -4032992606696523005
+      lasercharge_15: -4874806343716496384
+      lasercharge_16: -4554033564845538482
+      lasercharge_17: 8377673617293691508
+      lasercharge_18: -9099339302567678944
+      lasercharge_19: -2490596195799794042
+      lasercharge_2: 1527407358041822275
+      lasercharge_3: -3556038056305653994
+      lasercharge_4: -9165643732133499455
+      lasercharge_5: -4660907337828815018
+      lasercharge_6: -627145010899251782
+      lasercharge_7: -8484927092220402557
+      lasercharge_8: -7783294412975828350
+      lasercharge_9: 7533007067882609142
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

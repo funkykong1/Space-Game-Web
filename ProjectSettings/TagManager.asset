@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Enemy
+  - EnemyBarrel
+  - Overlay
+  - LoadoutButton
+  - DEBUG
+  - PlayerWeapon
+  - PlayerShipSlot
+  - CoinMagnet
+  - LevelButton
+  - StatusEffect
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Map
+  - Water
+  - UI
+  - Enemy
+  - Player
+  - Projectile
+  - Map Border
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 2025476237
+    locked: 0
+  - name: BG ELEMENTS
+    uniqueID: 70125169
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Projectile Default
+    uniqueID: 1312569163
+    locked: 0
+  - name: Enemy
+    uniqueID: 3844110123
+    locked: 0
+  - name: Player
+    uniqueID: 762661565
+    locked: 0
+  - name: VFX
+    uniqueID: 1843008673
+    locked: 0
+  - name: UI
+    uniqueID: 1609493475
+    locked: 0
+  - name: +1 COOL VFX
+    uniqueID: 3321191983
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  - Foreground
+  - Background

@@ -1,0 +1,505 @@
+fileFormatVersion: 2
+guid: 42f2418695c822747a3acdf97ed35a23
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5358167244182702320
+    second: electric2_0
+  - first:
+      213: -612711105284251703
+    second: electric2_1
+  - first:
+      213: 7393241279490638768
+    second: electric2_2
+  - first:
+      213: 3104061002258726701
+    second: electric2_3
+  - first:
+      213: 3231278999116040800
+    second: electric2_4
+  - first:
+      213: -6600222418455790567
+    second: electric2_5
+  - first:
+      213: -8021857058546166452
+    second: electric2_6
+  - first:
+      213: -4795986759667136348
+    second: electric2_7
+  - first:
+      213: 8385768254728691285
+    second: electric2_8
+  - first:
+      213: -1628797802611742791
+    second: electric2_9
+  - first:
+      213: 1178514303447629610
+    second: electric2_10
+  - first:
+      213: 9200832337806477962
+    second: electric2_11
+  - first:
+      213: -1247088386514872858
+    second: electric2_12
+  - first:
+      213: 8573468751587690010
+    second: electric2_13
+  - first:
+      213: 617599536140037731
+    second: electric2_14
+  - first:
+      213: -6747882149825044010
+    second: electric2_15
+  - first:
+      213: 483028102449177414
+    second: electric2_16
+  - first:
+      213: 4754238030144187092
+    second: electric2_17
+  - first:
+      213: -8214745640489364979
+    second: electric2_18
+  - first:
+      213: 399383194552912976
+    second: electric2_19
+  - first:
+      213: 7573859354276177882
+    second: electric2_20
+  - first:
+      213: -8781055044237476780
+    second: electric2_21
+  - first:
+      213: 1431139463026402871
+    second: electric2_22
+  - first:
+      213: 7339739995902459880
+    second: electric2_23
+  - first:
+      213: -7148461228488910775
+    second: electric2_24
+  - first:
+      213: 8957129888765936169
+    second: electric2_25
+  - first:
+      213: -2875156853267698909
+    second: electric2_26
+  - first:
+      213: 173774316811048162
+    second: electric2_27
+  - first:
+      213: -867789851887036344
+    second: electric2_28
+  - first:
+      213: 6066486399699267510
+    second: electric2_29
+  - first:
+      213: 7626681002760463068
+    second: electric2_30
+  - first:
+      213: 56787924751155322
+    second: electric2_31
+  - first:
+      213: 7201780191747451173
+    second: electric2_32
+  - first:
+      213: 1654701717167742720
+    second: electric2_33
+  - first:
+      213: 4239677970748899029
+    second: electric2_34
+  - first:
+      213: 3006314096940171840
+    second: electric2_35
+  - first:
+      213: 5970385192715648633
+    second: electric2_36
+  - first:
+      213: 211931339538322055
+    second: electric2_37
+  - first:
+      213: 3123596361039853669
+    second: electric2_38
+  - first:
+      213: 2445711826223668670
+    second: electric2_39
+  - first:
+      213: 203819083595700512
+    second: electric2_40
+  - first:
+      213: -6059371044620131602
+    second: electric2_41
+  - first:
+      213: 8635203987521934338
+    second: electric2_42
+  - first:
+      213: 3410752275673226896
+    second: electric2_43
+  - first:
+      213: 4495556498809134788
+    second: electric2_44
+  - first:
+      213: 2672374945068776611
+    second: electric2_45
+  - first:
+      213: -5749973778891487151
+    second: electric2_46
+  - first:
+      213: 7650830034889837565
+    second: electric2_47
+  - first:
+      213: 8545373252831207598
+    second: electric2_48
+  - first:
+      213: -7950221721795285896
+    second: electric2_49
+  - first:
+      213: -6634600579494599603
+    second: electric2_50
+  - first:
+      213: -5816994770396251508
+    second: electric2_51
+  - first:
+      213: 1459717484214279951
+    second: electric2_52
+  - first:
+      213: 7086286169258846573
+    second: electric2_53
+  - first:
+      213: 4925558872488681414
+    second: electric2_54
+  - first:
+      213: 6655864233881041894
+    second: electric2_55
+  - first:
+      213: -6104888844388098632
+    second: electric2_56
+  - first:
+      213: 6201294536158896263
+    second: electric2_57
+  - first:
+      213: -116655374946100413
+    second: electric2_58
+  - first:
+      213: -3250821488286389427
+    second: electric2_59
+  - first:
+      213: 298538675827607739
+    second: electric2_60
+  - first:
+      213: 4329230602142702273
+    second: electric2_61
+  - first:
+      213: 7789572204765067067
+    second: electric2_62
+  - first:
+      213: -1804126334000163555
+    second: electric2_63
+  - first:
+      213: 5583970306736178788
+    second: electric2_64
+  - first:
+      213: -8302583687865936578
+    second: electric2_65
+  - first:
+      213: -4311208883938082498
+    second: electric2_66
+  - first:
+      213: 431499412955034930
+    second: electric2_67
+  - first:
+      213: 111272514453015619
+    second: electric2_68
+  - first:
+      213: 6850843991265347518
+    second: electric2_69
+  - first:
+      213: -2262441759614570892
+    second: electric2_70
+  - first:
+      213: -4931093341340587580
+    second: electric2_71
+  - first:
+      213: 4643419032064940785
+    second: electric2_72
+  - first:
+      213: -9056607889940529802
+    second: electric2_73
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: electric_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944210cc80ee6c44981d9cf8a128ca6e
+      internalID: 1537165002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4f0f399f665a44b90936774bcfb649
+      internalID: -1435012879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9fdd62fe89b9f4989158b232065be2
+      internalID: 640263019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80b34411bac6244794aabf0647efa3d
+      internalID: 1554701338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086ef129fe33f3d4fb820626c1a40f28
+      internalID: 1111023344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electric_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6883462e64edfca42bb37d6f19a656f8
+      internalID: 108268803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ed257f4e3f6dcb94ea347ee182d9da40
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":1.0},"gridSpriteSize":{"x":48.0,"y":48.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      electric_0: 1537165002
+      electric_1: -1435012879
+      electric_2: 640263019
+      electric_3: 1554701338
+      electric_4: 1111023344
+      electric_5: 108268803
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
