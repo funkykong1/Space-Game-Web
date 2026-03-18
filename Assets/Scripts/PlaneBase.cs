@@ -16,7 +16,7 @@ public abstract class PlaneBase : MonoBehaviour
 
     public void Heal(float amount)
     {
-        // do we really need a healing multiplier?
+        // no multiplier implemented
         DoHealing(amount);
     }
 
@@ -49,7 +49,6 @@ public abstract class PlaneBase : MonoBehaviour
 
 
 
-    // I really really dont want these to be fucking public the inspector will be a metre long
     // top values for adjusted stats
     [SerializeField]
     private readonly float speedMultCap = 2f;
